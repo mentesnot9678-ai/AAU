@@ -1,7 +1,7 @@
 <?php
 session_start();
 include("../config/db.php");
-
+/*error*/ 
 $error = "";
 
 /* AUTO REDIRECT IF LOGGED IN */
